@@ -76,7 +76,7 @@ footer:
       url: "https://www.linkedin.com/in/philipjddavey/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/philipdavey/"
 
 defaults:
   # _posts
