@@ -62,18 +62,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Motivated FPGA Engineer with over 2 years experience providing open source projects for people to learn more about FPGA Design."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/philipjddavey/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/philipdavey/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
