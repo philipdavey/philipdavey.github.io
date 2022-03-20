@@ -1,6 +1,6 @@
 ---
-permalink: /CV/
+permalink: /cv/
 title: "CV"
 ---
 
-blah blah blah
+Please find a copy of my CV below:
