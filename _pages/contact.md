@@ -3,4 +3,6 @@ permalink: /contact/
 title: "Contact Details"
 ---
 
-Insert about here
+Telephone: Philip Davey +447798916810
+
+Email: pjddavey@gmail.com

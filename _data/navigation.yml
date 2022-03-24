@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+  - title: "Projects"
+    url: /projects/
   - title: "Contact"
-    url: /about/
-  - title: "CV"
-    url: /cv/
+    url: /contact/
