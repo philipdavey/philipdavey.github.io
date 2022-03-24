@@ -62,9 +62,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Motivated FPGA Engineer with over two years experience providing open source projects for people to learn more about FPGA Design."
   links:
-    - label: "Edinburgh, UK"
-      icon: "fab fa-fw fa-linkedin"
-      url:
+#    - label: "Edinburgh, UK"
+#      icon: "fab fa-fw fa-linkedin"
+#      url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pjddavey@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/philipjddavey/"
