@@ -61,7 +61,7 @@ author:
   name     : "Philip Davey"
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Motivated FPGA Engineer with over two years experience providing open source projects for people to learn more about FPGA Design."
-  location : "Edinburgh, UK"
+#  location : "Edinburgh, UK"
   links:
     - label: "Edinburgh, UK"
       icon: "fas fa-fw fa-location-dot"
