@@ -69,6 +69,7 @@ author:
       url: "mailto:pjddavey@gmail.com"
     - label: "Telephone: +447798916810"
       icon: "fas fa-fw fa-mobile"
+      url: "www.google.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/philipjddavey/"
