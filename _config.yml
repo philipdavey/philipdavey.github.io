@@ -15,7 +15,6 @@ title       : Philip Davey
 subtitle    : "FPGA Solutions"
 email       : pjddavey@gmail.com
 url         : https://philipdavey.github.io
-baseurl     : "/contact" # the subpath of your site, e.g. "/blog"
 github_username: philipdavey
 search: false
 
@@ -52,11 +51,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
   name     : "Philip Davey"
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Motivated FPGA Engineer with over two years experience in the Defense industry."
   location : "Edinburgh, UK"
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
