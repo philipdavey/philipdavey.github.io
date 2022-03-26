@@ -66,6 +66,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pjddavey@gmail.com"
+    - label: "Telephone: +447798916810"
+      icon: "fas fa-fw fa-envelope-square"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/philipjddavey/"
