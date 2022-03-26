@@ -1,7 +1,6 @@
 ---
-layout: splash
-permalink: /home
-title: "Home"
+permalink: /
+title: "Home Page"
 ---
 
--- Home Page
+Blah blah blah
