@@ -15,7 +15,7 @@ title       : Philip Davey
 subtitle    : "FPGA Solutions"
 email       : pjddavey@gmail.com
 url         : https://philipdavey.github.io
-baseurl     : "/home" # the subpath of your site, e.g. "/blog"
+# baseurl     : "/home" # the subpath of your site, e.g. "/blog"
 github_username: philipdavey
 search: false
 
