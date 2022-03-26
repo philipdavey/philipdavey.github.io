@@ -11,7 +11,8 @@
 minimal_mistakes_skin : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site settings
-title       : Philip Davey
+name        : &name "Philip Davey" # &name is a YAML anchor which can be *referenced later
+title       : *name
 subtitle    : "FPGA Solutions"
 email       : pjddavey@gmail.com
 url         : https://philipdavey.github.io
@@ -53,7 +54,7 @@ plugins:
 
 # Site Author
 author:
-  name     : "Philip Davey"
+  name     : *name
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Motivated FPGA Engineer with over two years experience in the Defense industry."
   location : "Edinburgh, UK"
