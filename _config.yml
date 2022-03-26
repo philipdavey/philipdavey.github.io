@@ -61,7 +61,7 @@ plugins:
 author:
   name     : "Philip Davey"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Motivated FPGA Engineer with over two years experience providing open source projects for people to learn more about FPGA Design."
+  bio      : "Motivated FPGA Engineer with over two years experience in the Defense industry."
   location : "Edinburgh, UK"
   links:
     - label: "Email"
