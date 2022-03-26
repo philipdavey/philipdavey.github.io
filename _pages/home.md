@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: splash
+permalink: /home
 title: "Home"
 ---
 
