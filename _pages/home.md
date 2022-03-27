@@ -1,7 +1,7 @@
 ---
 title: "Philip Davey"
 layout: splash
-permalink: /home
+permalink: /home/
 
 header:
   overlay_color: "#808080"
