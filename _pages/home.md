@@ -33,5 +33,3 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-
-Blah blah blah
