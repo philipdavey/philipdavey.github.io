@@ -1,7 +1,7 @@
 ---
 title: "AES Encryption and Decryption."
 permalink: /aes/
-author_profile: false
+author_profile: true
 ---
 
 Insert AES Stuff here.
