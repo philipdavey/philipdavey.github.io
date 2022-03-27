@@ -33,3 +33,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
