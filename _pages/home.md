@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: "Philip Davey"
 layout: splash
 permalink: /home
 
@@ -11,7 +11,7 @@ header:
     # - label: "Download"
       # url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Insert Description here."
+excerpt: "FPGA Solutions."
 intro: 
   - excerpt: 'Insert Intro here'
 feature_row:
