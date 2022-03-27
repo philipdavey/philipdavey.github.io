@@ -15,7 +15,7 @@ excerpt: "FPGA Solutions."
 intro: 
   - excerpt: 'Insert Intro here'
 feature_row:
-  - image_path: assets/images/bio-photo.jpg
+  - image_path: assets/images/aes.png
     alt: "placeholder image 2"
     title: "AES Encryption and Decryption"
     excerpt: 'VHDL Implementation of Advanced Encryption Standard (AES) 128 bit Encryption and Decryption.'
