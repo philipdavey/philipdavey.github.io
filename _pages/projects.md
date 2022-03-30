@@ -2,6 +2,7 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
+author_profile: true
 
 feature_row:
   - image_path: assets/images/aes.png
