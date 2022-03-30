@@ -34,7 +34,11 @@ The Final Round consists of the Sub Bytes, Shift Rows and Add Round Key operatio
 
 #### Block Diagram:
 
-![Encryption Block Diagram:](assets/images/encryption.png)
+<figure>
+  <img src="{{ '/assets/images/encryption.png' | relative_url }}" alt="AES Encryption Block Diagram">
+</figure>
+
+<!-- ![Encryption Block Diagram:](assets/images/encryption.png) -->
 
 ## Decryption:
 
