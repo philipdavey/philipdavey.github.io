@@ -34,7 +34,7 @@ The Final Round consists of the Sub Bytes, Shift Rows and Add Round Key operatio
 
 #### Block Diagram:
 
-![Encryption Block Diagram:](docs/diagrams/encryption.png)
+![Encryption Block Diagram:](assets/images/encryption.png)
 
 ## Decryption:
 
@@ -59,7 +59,7 @@ The Inverse Final Round consists of the Inverse Sub Bytes, Inverse Shift Rows an
 
 #### Block Diagram:
 
-![Decryption Block Diagram:](docs/diagrams/decryption.png)
+![Decryption Block Diagram:](assets/images/decryption.png)
 
 ### Useful links:
 
