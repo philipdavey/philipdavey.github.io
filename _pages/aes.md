@@ -2,7 +2,6 @@
 title: "VHDL Implementation of AES-128: Encryption and Decryption."
 layout: splash
 permalink: /aes/
-author_profile: true
 toc       : true
 toc_label : "AES Table of Contents"
 toc_icon  : "cog"
