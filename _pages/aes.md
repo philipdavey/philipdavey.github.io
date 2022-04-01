@@ -4,7 +4,7 @@ permalink: /aes/
 author_profile: false
 toc       : true
 # toc_label : "AES Table of Contents"
-toc_icon  : "cog"
+toc_icon  : "book"
 ---
 
 ## What is AES?
