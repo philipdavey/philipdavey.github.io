@@ -1,10 +1,10 @@
 ---
 title: "VHDL Implementation of AES-128: Encryption and Decryption."
-layout: splash
+# layout: splash
 permalink: /aes/
 toc       : true
-toc_label : "AES Table of Contents"
-toc_icon  : "cog"
+# toc_label : "AES Table of Contents"
+# toc_icon  : "cog"
 ---
 
 ## What is AES?
