@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: false
 ---
 
-Add wufoo form here https://www.wufoo.com/
-
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/218335b0754feea934a09a4880836c0d?embedded=1"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
