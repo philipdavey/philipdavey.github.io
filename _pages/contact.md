@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: false
 ---
 
-Add wufoo form here https://www.wufoo.com/
-
 <form action="https://getform.io/f/35dc782a-53b7-4412-ba90-f827f32dea60" method="POST">
     <input type="text" name="name">
     <input type="email" name="email">
@@ -23,5 +21,5 @@ Add wufoo form here https://www.wufoo.com/
         <option value="one-five-years">1-5 years</option>
         <option value="five-plus-years">5+ years</option>
     </select>
-    <button type="submit">Send</button>
+    <button type="submit">Submit</button>
 </form>
