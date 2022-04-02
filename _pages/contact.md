@@ -16,10 +16,10 @@ author_profile: false
     <input type="radio" name="gender" value="female">
     <input type="radio" name="gender" value="other">
     <!-- select field handle --> 
-    <select name="work-experience">
+<!--     <select name="work-experience">
         <option value="one-year">0-1 years</option>
         <option value="one-five-years">1-5 years</option>
         <option value="five-plus-years">5+ years</option>
-    </select>
+    </select> -->
     <button type="submit">Submit</button>
 </form>
