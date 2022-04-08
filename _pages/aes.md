@@ -7,10 +7,9 @@ toc       : true
 toc_icon  : "book"
 sidebar:
   - title: "Advanced Encryption Standard (AES)"
-    url: /aes/
-   # children:
-    #    - title: "blah"
-     #   url: /aes/
+    children:
+      - title: "blah"
+        url: /aes/
       #  - title: "blah"
        # url: /aes/
         #- title: "blah"
