@@ -7,7 +7,7 @@ toc       : true
 toc_icon  : "book"
 ---
 
-# What is AES?
+## What is AES?
 
 The Advanced Encryption Standard (AES) is a cryptographic algorithm used to encrypt and decrypt information. An encryption algorithm transforms the **Plaintext** (original data before encryption) into a **Ciphertext** (an unintelligble form of data), which can only be accessed using a **Cipher Key**. In the AES algorithm, the encryption and decryption stages use the same cipher key because it is a symmetric block cipher. For this implementation, both the length of the data input and the cipher key are set to 128 bits.
 
