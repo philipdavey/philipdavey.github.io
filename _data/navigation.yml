@@ -7,7 +7,7 @@ main:
 
 # Documentation links
 sidebar-sample:
-  - title: "AES"
+  - title: "Advanced Encryption Standard"
     children:
       - title: "AES Overview"
         url: /aes/overview/
