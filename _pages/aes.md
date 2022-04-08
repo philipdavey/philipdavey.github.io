@@ -37,7 +37,9 @@ The Final Round consists of the Sub Bytes, Shift Rows and Add Round Key operatio
 
 #### Block Diagram:
 
+blah
 ![Encryption Block Diagram:](/assets/images/encryption.png)
+
 
 ## Decryption:
 
