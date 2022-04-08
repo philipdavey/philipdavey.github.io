@@ -7,15 +7,7 @@ toc       : true
 toc_icon  : "book"
 sidebar:
   - title: "AES"
-    children:
-      - title: "blah"
-        url: /aes/
-      #  - title: "blah"
-       # url: /aes/
-        #- title: "blah"
-        #url: /aes/
-        #- title: "blah"
-        #url: /aes/
+    nav: sidebar-sample
 ---
 
 ## What is AES?

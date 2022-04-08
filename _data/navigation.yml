@@ -6,12 +6,14 @@ main:
     url: /contact/
 
 # Documentation links
-docs:
-  - title: Projects
+sidebar-sample:
+  - title: "Parent Page A"
     children:
-      - title: "Advanced Encryption Standard (AES)"
-        url: /aes/
-      - title: "AES Overview"
-        url: /aes/overview/
-      - title: "AES Simulations"
-        url: /aes/simulation/
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
