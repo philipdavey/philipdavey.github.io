@@ -65,6 +65,8 @@ The Inverse Final Round consists of the Inverse Sub Bytes, Inverse Shift Rows an
 
 ### Block Diagram:
 
+A visual representation of the Decryption process can be seen below:
+
 ![Decryption Block Diagram:](/assets/images/decryption.png)
 
 ### Useful links:
