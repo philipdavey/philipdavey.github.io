@@ -9,7 +9,7 @@ main:
 sidebar-sample:
   - title: "Advanced Encryption Standard"
     children:
-      - title: "AES Overview"
+      - title: "Overview"
         url: /aes/overview/
       - title: "Simulations"
         url: /aes/simulations/
