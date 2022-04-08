@@ -7,7 +7,7 @@ main:
 
 # Documentation links
 docs:
-  - title: Projects:
+  - title: Projects
     children:
       - title: "Advanced Encryption Standard (AES)"
         url: /aes/
