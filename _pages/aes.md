@@ -6,7 +6,7 @@ toc       : true
 # toc_label : "AES Table of Contents"
 toc_icon  : "book"
 sidebar:
-  - title: "Advanced Encryption Standard (AES)"
+  - title: "AES"
     children:
       - title: "blah"
         url: /aes/
