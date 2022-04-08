@@ -1,5 +1,17 @@
+# Main links
 main:
   - title: "Projects"
     url: /projects/
   - title: "Contact"
     url: /contact/
+
+# Documentation links
+docs:
+  - title: Projects:
+    children:
+      - title: "Advanced Encryption Standard (AES)"
+        url: /aes/
+      - title: "AES Overview"
+        url: /aes/overview/
+      - title: "AES Simulations"
+        url: /aes/simulation/
