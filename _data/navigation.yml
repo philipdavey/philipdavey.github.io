@@ -7,12 +7,12 @@ main:
 
 # Documentation links
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: "Advanced Encryption Standard (AES)"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
+      - title: "AES Overview"
+        url: /aes/overview/
+      - title: "Simulations"
+        url: /aes/simulations/
       - title: "Child Page A3"
         url: /
       - title: "Child Page A4"
