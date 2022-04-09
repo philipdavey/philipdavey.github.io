@@ -10,6 +10,6 @@ sidebar-sample:
   - title: "AES"
     children:
       - title: "Overview"
-        url: /aes/overview/
+        url: /aes/
       - title: "Simulations"
-        url: /aes/simulations/
+        url: /aes/sim/
