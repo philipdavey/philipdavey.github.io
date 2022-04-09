@@ -13,3 +13,7 @@ sidebar-sample:
         url: /aes/
       - title: "Simulations"
         url: /aes/sim/
+  - title: "8-Bit CPU"
+    children:
+      - title: "Overview"
+      url: /cpu/
