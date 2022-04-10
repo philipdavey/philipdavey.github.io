@@ -12,43 +12,43 @@ sidebar:
 
 - Give a brief overview here of the project
 
-# Main Parts of a CPU
+## Main Parts of a CPU
 
 - talk about CPU architecture
 - have a block diagram explaining it
 
-## Control Unit (CU):
+### Control Unit (CU):
 
 The Control Unit fetches and decodes the incoming instructions, in order to control how the other components operate. It is primarily used to transfer data and instructions around the system.
 
-## Arithmetic Logic Unit (ALU):
+### Arithmetic Logic Unit (ALU):
 
 The ALU consists of logic gates and is used to perform arithmetic and logical operations (decisions). Any data that is transfered between the primary and secondary storage is also passed through the ALU.
 
-## Registers:
+### Registers:
 
 Registers are used in a CPU to store small amounts of data during processing. There are five types of registers within a CPU, found below:
 
-### Accumulator - AC
+#### Accumulator - AC
 Stores the results of caluclations.
 
-### Instruction Register - IR
+#### Instruction Register - IR
 Stores the address in RAM of the instruction to be processed.
 
-### Memory Address Register - MAR
+#### Memory Address Register - MAR
 Stores the address in RAM of the data to be processed.
 
-### Memory Data Register - MDR
+#### Memory Data Register - MDR
 Stores the data that is being processed.
 
-### Program Counterr - PC
+#### Program Counterr - PC
 Stores the address in RAM of the next instruction.
 
-## Memory:
+### Memory:
 
-## Buses:
+### Buses:
 
-## Input and Output:
+### Input and Output:
 - Cache
 - buses
 - Clock
