@@ -22,6 +22,6 @@ feature_row:
 
 # Projects:
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
-<!-- {% include feature_row id="feature_row" type="left" %} -->
+{% include feature_row id="feature_row" type="left" %}
