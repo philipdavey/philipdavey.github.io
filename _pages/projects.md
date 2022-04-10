@@ -11,7 +11,7 @@ feature_row:
     url: "/aes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/AES/aes.png
+  - image_path: assets/images/CPU/8_bit_cpu.png
     alt: "CPU Image"
     title: "8-Bit CPU"
     excerpt: 'VHDL Implementation of an 8-Bit CPU.'
