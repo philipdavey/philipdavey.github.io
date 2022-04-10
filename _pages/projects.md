@@ -8,18 +8,17 @@ feature_row:
     alt: "AES Image"
     title: "AES Encryption and Decryption"
     excerpt: 'VHDL Implementation of Advanced Encryption Standard (AES) 128 bit Encryption and Decryption.'
-    url: "/aes"
+    url: "/aes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/aes.png
-    alt: "placeholder image 2"
-    title: "AES Encryption and Decryption"
-    excerpt: 'VHDL Implementation of Advanced Encryption Standard (AES) 128 bit Encryption and Decryption.'
-    url: "/aes"
+  - image_path: assets/images/AES/aes.png
+    alt: "CPU Image"
+    title: "8-Bit CPU"
+    excerpt: 'VHDL Implementation of an 8-Bit CPU.'
+    url: "/cpu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
 
 # Projects:
 
