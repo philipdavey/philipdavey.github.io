@@ -12,10 +12,10 @@ sidebar:
 
 - Give a brief overview here of the project
 
-## Main Parts of a CPU
+## CPU Architecture
 
-- talk about CPU architecture
-- have a block diagram explaining it
+- overview
+- have a block diagram
 
 ### Control Unit (CU):
 
