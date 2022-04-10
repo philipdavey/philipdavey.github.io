@@ -16,4 +16,4 @@ sidebar-sample:
   - title: "8-Bit CPU"
     children:
       - title: "Overview"
-      url: /cpu/
+        url: /cpu/
