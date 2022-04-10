@@ -4,7 +4,7 @@ layout: splash
 permalink: /projects/
 
 feature_row:
-  - image_path: assets/images/aes.png
+  - image_path: assets/images/AES/aes.png
     alt: "AES Image"
     title: "AES Encryption and Decryption"
     excerpt: 'VHDL Implementation of Advanced Encryption Standard (AES) 128 bit Encryption and Decryption.'
